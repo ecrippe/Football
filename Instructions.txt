@@ -1,0 +1,10 @@
+Elliot Rippe & Ben Beyer
+12/3/17
+Football
+
+Instructions:
+
+This is a field goal kicking game. Click the kick button for the ball to be kicked. While it is in the air, you cannot use any buttons. Once it goes through the uprights, it returns to its position and the referee signals that it was a successful kick by raising his arms over his head. If it was not a successful kick (you missed), the referee will signal this by doing nothing. You cannot use any buttons while he is signaling. The forward and backward buttons control the distance of the kick. They are limited and will not work if the player attempts to move the ball too close or too far. 
+
+Note: The football moves in slow motion for dramatic effect; we could speed it up easily by changing how much the variable zmove incriments by in the render function (as well as a few minor tweaks).
+
